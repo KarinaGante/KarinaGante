@@ -1,10 +1,9 @@
-### Olá! Eu sou a Karina 🖐
+### Eu sou a Karina 🌻
 
 - 💻 Ciências da Computação | IFSP | <7/8>
 - ⚙️ Full Stack | PHP |
 - 🎮 | 🎶 | 🛹 | 📚
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karinovisk02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 <br><br>
