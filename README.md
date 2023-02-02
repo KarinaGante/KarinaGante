@@ -1,4 +1,4 @@
-### Eu sou a Karina 🌻
+### Eu sou a Karina (nøka) 🌻
 
 - 💻 Ciências da Computação | IFSP | <7/8> |
 - ⚙️ Full Stack | PHP |
