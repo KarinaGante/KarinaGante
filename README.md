@@ -1,6 +1,6 @@
 ### Eu sou a Karina (nøka) 🌻
 
-- 💻 Ciências da Computação | IFSP | <7/8> |
+- 💻 Ciências da Computação | IFSP | <8/8> |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-gante)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://karinagante.github.io/index.html)
