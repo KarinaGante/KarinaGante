@@ -37,7 +37,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fkarinagante.github.io%2Findex.html&label=Visitantes&labelColor=%23a277ff&countColor=%2315141b)<br>
 
 ## 📲 Conecte-se Comigo 
-<div gap="5px">
+<div>
 <br><a href="https://www.linkedin.com/in/karina-gante/" target="_blank" style="margin-right:7px;"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/a277ff" /></a>
 <a href="https://www.instagram.com/karinovisk02/" target="_blank" style="margin-right:7px;"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/61ffca" /></a>
 <a href="https://www.github.com/KarinaGante/" target="_blank" style="margin-right:7px;"><img height="32" width="32" src="https://cdn.simpleicons.org/github/a277ff" /></a>
