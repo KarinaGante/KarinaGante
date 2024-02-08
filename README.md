@@ -21,6 +21,7 @@
 <img height="32" width="32" style="margin-right:7px;" src="https://cdn.simpleicons.org/javascript/a277ff">
 <img height="32" width="32" style="margin-right:7px;" src="https://cdn.simpleicons.org/.net/a277ff">
 <img height="32" width="32" style="margin-right:7px;" src="https://cdn.simpleicons.org/node.js/a277ff">
+<img height="32" width="32" style="margin-right:7px;" src="https://cdn.simpleicons.org/python/a277ff">
 <br><img height="32" width="32" style="margin-right:7px;" src="https://cdn.simpleicons.org/git/61ffca">
 <img height="32" width="32" style="margin-right:7px;" src="https://cdn.simpleicons.org/bootstrap/61ffca">
 <img height="32" width="32" style="margin-right:7px;" src="https://cdn.simpleicons.org/jquery/61ffca">
