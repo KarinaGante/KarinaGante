@@ -6,12 +6,15 @@
 <br>
 
 - 👩‍💻 Graduada em Ciência da Computação
-- 📊 Interesse em Análise de Dados e Ciência de Dados
-- 🔒 Fascinada por Segurança da Informação e Cibersegurança
+- 📊 Interesse em Análise e Ciência de Dados
+- 🔒 Fascinada por Segurança Cibernética
 - ☁️ Conhecimento em Nuvem, especialmente AWS
-- 🎵 Amante da música
+- 🎵 A música me cativa e me move
 - 🎮 Entusiasta de Jogos, sempre em busca de novos desafios
+- 🎬 Procurando filmes inesquecíveis (meu #1: You Can Live Forever)
 - 📚 Constantemente buscando expandir meus conhecimentos
+- 🔎 Apegada aos pequenos detalhes
+- 🌻 "I wanna be like sun"
 
 <br>
 <div align="center">
@@ -50,7 +53,7 @@
 <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaGante&layout=compact&hide_title=true&hide_border=true&theme=aura)<br>
 
 ## 🤝🏻 Vamos Conectar e Colaborar! 
-<br>Se você está interessado(a) em trabalhar em projetos emocionantes relacionados à análise de dados, cibersegurança, nuvem ou apenas deseja discutir sobre música, jogos ou tecnologia, não hesite em entrar em contato! Mal posso esperar para colaborar e aprender com você! 😊
+<br>Se você está interessado(a) em trabalhar em projetos relacionados à análise de dados, cibersegurança, nuvem ou apenas deseja discutir sobre música, jogos, filmes ou tecnologia, não hesite em entrar em contato! Mal posso esperar para colaborar e aprender com você! 😊
 
 <div align="center">
 <br>Feito com 💜 por Karina
