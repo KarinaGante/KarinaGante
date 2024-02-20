@@ -14,7 +14,6 @@
 - 🎬 Procurando filmes inesquecíveis (meu #1: You Can Live Forever)
 - 📚 Constantemente buscando expandir meus conhecimentos
 - 🔎 Apegada aos pequenos detalhes
-- 🌻 "I wanna be like sun"
 
 <br>
 <div align="center">
