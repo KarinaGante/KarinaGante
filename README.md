@@ -17,7 +17,7 @@
 
 <br><h2>⚙️ Technologies ⚙️</h2><br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,dotnet,cs,java,nodejs,python&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,dotnet,cs,java,nodejs&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=postgresql,git,bootstrap,jquery,github,mysql&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=aws,windows,azure,linux&theme=dark)](https://skillicons.dev)<br>
 
@@ -50,7 +50,7 @@
 | Name | Description | Example | Link |
 | :--------: | :-------: | :-------: | :-------: |
 | Aura theme | Colors schema i've based on | ![#a277ff](https://via.placeholder.com/15/a277ff/000000?text=+) `#A277FF` ![#29263c](https://via.placeholder.com/15/29263c/000000?text=+) `#29263C` ![#15141b](https://via.placeholder.com/15/15141b/000000?text=+) `#15141B` ![#61ffca](https://via.placeholder.com/15/61ffca/000000?text=+) `#61FFCA` | [Aura Theme](https://github.com/daltonmenezes/aura-theme?tab=readme-ov-file) |
-| Typing svg | Animated text | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=13DCBC&center=true&vCenter=true&random=false&width=435&height=60&lines=You+Can+Live+Forever;Jaime%2C+right%3F+I'm+Marike;I+don't+think+that's+possible;Only+if+she+wants+to;He+loves+you%2C+everyone+does;Not+gonna+let+me+go%3F;Do+you+recognize+as+a+sinner%3F;Forever+and+ever)](https://git.io/typing-svg) | [Typing svg](https://github.com/DenverCoder1/readme-typing-svg) |
+| Typing svg | Animated text | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=13DCBC&center=true&vCenter=true&random=false&width=435&height=60&lines=You+Can+Live+Forever;Jaime%2C+right%3F+I'm+Marike;I+don't+think+that's+possible;Only+if+she+wants+to;He+loves+you%2C+everyone+does;Not+gonna+let+me+go%3F;Do+you+recognize+as+a+sinner%3F;Forever+and+ever)](https://git.io/typing-svg) | [Typing svg](https://github.com/DenverCoder1/readme-typing-svg) |
 | Skill icons | Themed icons | [![My Skills](https://skillicons.dev/icons?i=sass,react,photoshop,gcp,typescript&theme=dark)](https://skillicons.dev) | [Skill Icons](https://github.com/tandpfun/skill-icons) |
 | Visitors badge | Badge with visitors count of a website | ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fkarinagante.github.io%2Findex.html&label=Visitors&labelColor=%23a277ff&countColor=%2315141b) | [Visitors Badge](https://visitorbadge.io) |
 | Top Langs | Themed most used programming languages | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaGante&layout=compact&theme=dracula) | [Top Langs](https://github.com/anuraghazra/github-readme-stats) |
