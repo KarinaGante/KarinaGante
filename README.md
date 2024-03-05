@@ -9,7 +9,7 @@
 📊 Interest in ***Analysis*** and ***Data Science***<br>
 🔒 Fascinated by ***Cybersecurity***<br>
 ☁️ Cloud knowledge, especially ***AWS***<br>
-🎵 Music ***captivates*** me and ***moves*** me<br>
+🎵 Music ***captivates*** and ***moves*** me<br>
 🎮 Game enthusiast, always ***looking for new challenges***<br>
 🎬 Looking for unforgettable movies (my #1: ***You Can Live Forever***)<br>
 📚 Constantly seeking to ***expand*** my knowledge<br>
