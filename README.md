@@ -5,6 +5,7 @@
 
 <br><h2>🛠️ Skills and Interests 🛠️</h2><br>
 
+🌱 Currently studying: ***Godot***<br><br>
 👩‍💻 Graduated in ***Computer Science***<br>
 📊 Interest in ***Analysis*** and ***Data Science***<br>
 🔒 Fascinated by ***Cybersecurity***<br>
@@ -18,7 +19,7 @@
 <br><h2>⚙️ Technologies ⚙️</h2><br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,dotnet,cs,java,nodejs&theme=dark)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=postgresql,git,bootstrap,jquery,github,mysql&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=postgresql,git,bootstrap,godot,jquery,github,mysql&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=aws,windows,azure,linux&theme=dark)](https://skillicons.dev)<br>
 
 <br><h2>📁 Portfolio 📁</h2><br>
@@ -38,7 +39,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaGante&layout=donut-vertical&hide_title=true&theme=aura)
 
-<br><h2>🤝🏻 Let's Connect and Collaborate! 🤝🏻</h2>
+<br><h2>🤝🏻 Let's Collaborate! 🤝🏻</h2>
 <br>If you are interested in working on projects related to data analysis, cybersecurity, cloud or just want to discuss music, games, films or technology, don't hesitate to get in touch! I can't wait to collaborate and learn from you! 😊
 
 <br><h2>🎧 Spotify 🎧</h2><br>
