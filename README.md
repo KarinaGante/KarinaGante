@@ -5,7 +5,7 @@
 
 <br><h2>🛠️ Skills and Interests 🛠️</h2><br>
 
-🌱 Currently studying: ***Godot***<br><br>
+🌱 Currently learning: ***Godot***<br><br>
 👩‍💻 Graduated in ***Computer Science***<br>
 📊 Interest in ***Analysis*** and ***Data Science***<br>
 🔒 Fascinated by ***Cybersecurity***<br>
@@ -44,7 +44,7 @@
 
 <br><h2>🎧 Spotify 🎧</h2><br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=karinovisk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=karinovisk&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karinovisk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=karinovisk&redirect=true)
 
 <br><h2>🗃️ Resources I've Used 🗃️</h2><br>
 
@@ -55,7 +55,7 @@
 | Skill icons | Themed icons | [![My Skills](https://skillicons.dev/icons?i=sass,react,photoshop,gcp,typescript&theme=dark)](https://skillicons.dev) | [Skill Icons](https://github.com/tandpfun/skill-icons) |
 | Visitors badge | Visitors count of a website | ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fkarinagante.github.io%2Findex.html&label=Visitors&labelColor=%23a277ff&countColor=%2315141b) | [Visitors Badge](https://visitorbadge.io) |
 | Top Langs | Themed most used languages | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaGante&layout=compact&theme=dracula) | [Top Langs](https://github.com/anuraghazra/github-readme-stats) |
-| Spotify stats | Currently playing (or recently played) on Spotify | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=karinovisk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=karinovisk&redirect=true) | [Spotify Stats](https://github.com/kittinan/spotify-github-profile) | 
+| Spotify stats | Currently playing (or recently played) on Spotify | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=karinovisk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=karinovisk&redirect=true) | [Spotify Stats](https://github.com/kittinan/spotify-github-profile) | 
 
 
 <br><br>
