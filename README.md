@@ -5,7 +5,7 @@
 
 <br><h2>🛠️ Skills and Interests 🛠️</h2><br>
 
-🌱 Currently learning: ***Godot***<br><br>
+🌱 Currently learning: ***Google Cloud***<br><br>
 👩‍💻 Graduated in ***Computer Science***<br>
 📊 Interest in ***Analysis*** and ***Data Science***<br>
 🔒 Fascinated by ***Cybersecurity***<br>
