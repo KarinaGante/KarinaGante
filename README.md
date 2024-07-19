@@ -5,7 +5,7 @@
 
 <br><h2>🛠️ Skills and Interests 🛠️</h2><br>
 
-🌱 Currently learning: ***Google Gemini IA***<br><br>
+🌱 Currently learning: ***Google Gemini AI***<br><br>
 👩‍💻 Graduated in ***Computer Science***<br>
 📊 Interest in ***Analysis*** and ***Data Science***<br>
 🔒 Fascinated by ***Cybersecurity***<br>
