@@ -5,12 +5,11 @@
 
 <br><h2>🛠️ Skills and Interests 🛠️</h2><br>
 
-🌱 Currently learning: ***Google Gemini AI***<br><br>
+🌱 Currently learning: ***Machine Learning on AWS***<br><br>
 👩‍💻 Graduated in ***Computer Science***<br>
-📊 Interest in ***Analysis*** and ***Data Science***<br>
-🔒 Fascinated by ***Cybersecurity***<br>
-☁️ Cloud knowledge, especially ***AWS***<br>
-🎵 Music ***captivates*** and ***moves*** me<br>
+☁️ Fascinated by Cloud, especially ***AWS***<br>
+🔒 ***Cybersecurity*** knowledge<br>
+🎵 Music ***moves*** me<br>
 🎮 Game enthusiast, always ***looking for new challenges***<br>
 🎬 Looking for unforgettable movies (my #1: ***You Can Live Forever***)<br>
 📚 Constantly seeking to ***expand*** my knowledge<br>
