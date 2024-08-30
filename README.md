@@ -5,7 +5,7 @@
 
 <br><h2>🛠️ Skills and Interests 🛠️</h2><br>
 
-🌱 Currently learning: ***Machine Learning on AWS***<br><br>
+[comment]: <> (🌱 Currently learning: ***Machine Learning on AWS***<br><br>)
 👩‍💻 Graduated in ***Computer Science***<br>
 ☁️ Fascinated by Cloud, especially ***AWS***<br>
 🔒 ***Cybersecurity*** knowledge<br>
