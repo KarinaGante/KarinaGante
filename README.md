@@ -4,8 +4,10 @@
 <h4>Passionate about music, games, movies, feelings, technology and learning.</h4>
 
 <br><h2>🛠️ Skills and Interests 🛠️</h2><br>
+🌱 Currently learning: ***Pentest***<br><br>
 
-[comment]: <> (🌱 Currently learning: ***Machine Learning on AWS***<br><br>)
+[comment]: <> ()
+
 👩‍💻 Graduated in ***Computer Science***<br>
 ☁️ Fascinated by Cloud, especially ***AWS***<br>
 🔒 ***Cybersecurity*** knowledge<br>
