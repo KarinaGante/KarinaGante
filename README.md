@@ -9,8 +9,8 @@
 [comment]: <> ()
 
 👩‍💻 Graduated in ***Computer Science***<br>
-☁️ Fascinated by Cloud, especially ***AWS***<br>
-🔒 ***Cybersecurity*** knowledge<br>
+🔒 Fascinated by ***Cybersecurity*** <br>
+☁️ Cloud knowledge, especially ***AWS*** <br>
 🎵 Music ***moves*** me<br>
 🎮 Game enthusiast, always ***looking for new challenges***<br>
 🎬 Looking for unforgettable movies (my #1: ***You Can Live Forever***)<br>
