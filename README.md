@@ -17,12 +17,12 @@
     <tr>
       <td>
         <p align="left">
-          🎓 Graduated in Computer Science from <a href="https://slt.ifsp.edu.br/" target="_blank">Instituto Federal</a></br>
-          🔒 Passionate about Cybersecurity, CTFs and pentests</br>
-          ☁ Knowledge in networks, systems and cloud</br>
-          👨🏻‍💻 "Good Hacker" in training through the <a href="https://hackersdobem.org.br/" target="_blank">RNP</a> program</br>
-          🔎 Exploiting vulnerabilities and defending systems </br>
-          🔴 Red Teamer
+          🎓 Graduated in Computer Science from <a href="https://slt.ifsp.edu.br/" target="_blank">Instituto Federal</a>.</br>
+          🔒 Passionate about Cybersecurity, CTFs and pentests.</br>
+          ☁ Knowledge in networks, systems and cloud.</br>
+          👨🏻‍💻 "Good Hacker" in training through the <a href="https://hackersdobem.org.br/" target="_blank">RNP</a> program.</br>
+          🔎 Exploiting vulnerabilities and defending systems. </br>
+          🔴 Red Teamer.
         </p>
       </td>
       <td>
