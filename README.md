@@ -68,8 +68,8 @@
    <img
     height=165
     align="center"
-    alt="GitHub Stats"
-    src="http://github-readme-streak-stats.herokuapp.com?user=karinagante&theme=jolly&hide_border=true"
+    alt="GitHub Streak"
+    src="https://nirzak-streak-stats.vercel.app/?user=karinagante&theme=jolly&hide_border=true"
    />
   <img
     height=165
@@ -125,7 +125,7 @@
 
   ##
 
-  *Made with 💜 by Karina.* 
+  *Made with💜 by Karina.* 
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/karina-gante/)
