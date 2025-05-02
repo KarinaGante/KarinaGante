@@ -17,7 +17,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1dxFabF0YhNd1zFzzYm83ee3Yu0RYacRp" width="300">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/noka._%E2%99%A1-AA07FF" />
+  <img src="https://img.shields.io/badge/noka_%E2%99%A1-AA07FF" />
 </div>
 
 ##
