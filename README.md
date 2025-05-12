@@ -37,11 +37,12 @@
 <div align="center">
 
  <div align="center" style="display: inline_block"><br>
-  <a href="https://www.credly.com/go/i2887yMK" target="_blank"><img width="50" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" /></a>
-  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=f849880ae2cc7c60231d0053c48b81af54f620ba" target="_blank"><img width="50" src="https://drive.google.com/uc?export=view&id=1uIN0WSNB1ep38dqum_-RmCNBcpu-rsoL" /></a>
-  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=b68eb17b513b48cba46206effeaec8c453c5cfb0" target="_blank"><img width="50" src="https://drive.google.com/uc?export=view&id=1ctbxFHJIe5aqzow6Z0I1oZ3s8dNqepPb" /></a>
-  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=e93116ad621fcf9ee3b16faa07bb2535d9a49135" target="_blank"><img width="50" src="https://drive.google.com/uc?export=view&id=1r7xTWf3OTdZjleTHDU-rvcLkL6NQtsYQ" /></a>
-  <a href="https://suap.ifsp.edu.br/edu/registroemissaodiploma_public/?aluno=karina+gante+de+medeiros+bussi&campus=9&modalidade=100" target="_blank"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Instituto_Federal_Marca_2015.svg/1200px-Instituto_Federal_Marca_2015.svg.png" /></a>
+  <a href="https://www.credly.com/go/i2887yMK" target="_blank"><img width="60" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" /></a>
+  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=f849880ae2cc7c60231d0053c48b81af54f620ba" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1uIN0WSNB1ep38dqum_-RmCNBcpu-rsoL" /></a>
+  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=b68eb17b513b48cba46206effeaec8c453c5cfb0" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1ctbxFHJIe5aqzow6Z0I1oZ3s8dNqepPb" /></a>
+  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=e93116ad621fcf9ee3b16faa07bb2535d9a49135" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1r7xTWf3OTdZjleTHDU-rvcLkL6NQtsYQ" /></a>
+  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=67cb8e40a39883ee3a8000338f57d616e829d310" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1zhW54LUxmjA9jkEgY-wPNKlsqVQQssgM" /></a>
+  <a href="https://suap.ifsp.edu.br/edu/registroemissaodiploma_public/?aluno=karina+gante+de+medeiros+bussi&campus=9&modalidade=100" target="_blank"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Instituto_Federal_Marca_2015.svg/1200px-Instituto_Federal_Marca_2015.svg.png" /></a>
    <br>
   <br>
   <img
