@@ -78,6 +78,20 @@
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karinagante&theme=jolly&hide_border=true"
   />
+   <br>
+  <br> 
+<img
+    height=110
+    align="center"
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sec-dojo-cyber-house&repo=cve-hunters&show_owner=true&hide_border=true&include_all=true&theme=jolly"
+   />  
+   <img
+    height=110
+    align="center"
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=karinagante&repo=KGSec&show_owner=true&hide_border=true&include_all=true&theme=jolly"
+   />  
   <br>
   <br>
   <img
@@ -87,23 +101,23 @@
   />
 
 <div align="center" style="display: inline_block"><br>
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kali-Dark.svg" />
- <img width="40" src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" />
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" />
- <img width="40" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png">
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
- <img width="40" src="https://www.exploit-db.com/images/spider-orange.png" />
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" />
- <img width="40" src="https://gtfobins.github.io/assets/logo.png" />
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" />
- <img width="40" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" />  
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" />
- <img width="40" src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" />
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
- <img width="40" src="https://img.icons8.com/?size=100&id=41078&format=png&color=FE5B00" />
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" />
- <img width="40" src="https://img.icons8.com/color/600/nmap.png" />
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Godot-Dark.svg" />
+ <img width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eabb7bd3-f056-4b3e-baee-36d5461726f9/dgbaece-f9bd058c-b5c4-4306-a37c-8d48000ce6fd.png/v1/fill/w_893,h_895/kali_linux_start_button_by_wbdisnbcuni_dgbaece-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MyIsInBhdGgiOiJcL2ZcL2VhYmI3YmQzLWYwNTYtNGIzZS1iYWVlLTM2ZDU0NjE3MjZmOVwvZGdiYWVjZS1mOWJkMDU4Yy1iNWM0LTQzMDYtYTM3Yy04ZDQ4MDAwY2U2ZmQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.un-YqKueP3vLxPo_5Zo66mxuqXq08yfWg_JyBkDeMiU" />
+ <img width="40" height="40" src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" />
+ <img width="40" height="40" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" />
+ <img width="40" height="40" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png">
+ <img width="30" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+ <img width="40" height="40" src="https://www.exploit-db.com/images/spider-orange.png" />
+ <img width="40" height="40" src="https://icones.pro/wp-content/uploads/2021/06/logo-windows-bleu.png" />
+ <img width="40" height="40" src="https://gtfobins.github.io/assets/logo.png" />
+ <img width="65" height="40" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" />
+ <img width="45" height="40" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" />  
+ <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/terminal-1-logo-png-transparent.png" />
+ <img width="40" height="40" src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" />
+ <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+ <img width="40" height="40" src="https://img.icons8.com/?size=100&id=41078&format=png&color=FE5B00" />
+ <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" />
+ <img width="40" height="40" src="https://img.icons8.com/color/600/nmap.png" />
+ <img width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Godot-Dark.svg" />
 
   <br>
   <br>
