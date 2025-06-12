@@ -113,7 +113,7 @@
  <img width="40" height="40" src="https://gtfobins.github.io/assets/logo.png" />
  <img width="45" height="40" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" /> 
  <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/terminal-1-logo-png-transparent.png" />
- <img width="40" height="40" src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" />
+ <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2DNuCKIH9xSxpQT79eKHnPqdRlKmeT908Q&s" />
  <img width="40" height="40" src="https://img.icons8.com/?size=100&id=41078&format=png&color=FE5B00" />
  <img width="40" height="40" src="https://github.com/user-attachments/assets/708f499f-11df-4c3c-8923-05e0dc42383e" />
  <img width="40" height="40" src="https://img.icons8.com/color/600/nmap.png" />
@@ -136,7 +136,7 @@
   <img
     align="center"
     alt="Spotify"
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=karinovisk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=karinovisk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
   />
 
   ##
