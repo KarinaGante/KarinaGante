@@ -52,20 +52,6 @@
   />
   
 </div><br> 
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=karinagante&show_icons=true&count_private=true&rank_icon=github&hide_border=true&include_all=true&theme=jolly"
-   />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinagante&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=jolly"
-  />
-  <br>
-  <br>
    <img
     height=165
     align="center"
@@ -78,20 +64,6 @@
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karinagante&theme=jolly&hide_border=true"
   />
-   <br>
-  <br> 
-<img
-    height=110
-    align="center"
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=sec-dojo-cyber-house&repo=cve-hunters&show_owner=true&hide_border=true&include_all=true&theme=jolly"
-   />  
-   <img
-    height=110
-    align="center"
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=karinagante&repo=KGSec&show_owner=true&hide_border=true&include_all=true&theme=jolly"
-   />  
   <br>
   <br>
   <img
@@ -99,6 +71,22 @@
     alt="Graph"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karinagante&theme=jolly"
   />
+  <br>
+  <br>
+  <img
+    height=185
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=karinagante&show_icons=true&count_private=true&rank_icon=github&hide_border=true&include_all=true&theme=jolly"
+   />
+  <img
+    height=185
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinagante&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=jolly"
+  />
+  <br>
+  <br>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" height="40" src="https://github.com/user-attachments/assets/e32e92af-f104-4f6c-8c4b-4955ac893199" />
