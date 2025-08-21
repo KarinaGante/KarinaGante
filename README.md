@@ -117,7 +117,7 @@
  <img width="45" height="40" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" /> 
  <img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/terminal-1-logo-png-transparent.png" />
  <img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2DNuCKIH9xSxpQT79eKHnPqdRlKmeT908Q&s" />
- <img width="40" height="40" src="https://img.icons8.com/?size=100&id=41078&format=png&color=FE5B00" />
+ <img width="40" height="45" src="https://dl2.macupdate.com/images/icons256/38118.png?time=1675964600" />
  <img width="40" height="40" src="https://github.com/user-attachments/assets/708f499f-11df-4c3c-8923-05e0dc42383e" />
  <img width="40" height="40" src="https://img.icons8.com/color/600/nmap.png" />
  <img width="65" height="40" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" />
@@ -151,6 +151,9 @@
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/KarinaGante/)
 [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:karina.g@aluno.ifsp.edu.br)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/karinovisk02/)
+
+##
+
+*Official Member of [CVE-Hunters](https://www.cvehunters.com/)🏹*
    
 </div>
- 
