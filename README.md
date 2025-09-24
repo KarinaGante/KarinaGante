@@ -77,6 +77,18 @@
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-10909" target="_blank">CVE-2025-10909</a>
   <br>
   <br>
+   <table>
+  <tr>
+    <td><a href="https://github.com/portabilis/i-educar" target="_blank"><img width="130" src="https://ieducar.org/img/logo_horizontal.svg"/></a></td>
+    <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="150" src="https://lh5.googleusercontent.com/proxy/Zx2VSwejASMnMUj_VbEv6_vi2DuJIdLYTF9t2uQGdnCcKu2u1FPd7OpMqzI6gBLzlaLOymrjgRJI"/></a></td>
+    <td><a href="https://github.com/novosga/novosga" target="_blank"><img width="150" src="https://cdn.rawgit.com/novosga/art/d50d3d42/dist/logo_270x107.png"/></a></td>
+  </tr>
+  <tr>
+    <td align="center">24x CVEs</td>
+    <td align="center">5x CVEs</td>
+    <td align="center">1x CVE</td>
+  </tr>
+</table>
   <img
     align="center"
     alt="TryHackMe Stats"
