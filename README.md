@@ -44,7 +44,7 @@
   <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=67cb8e40a39883ee3a8000338f57d616e829d310" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1zhW54LUxmjA9jkEgY-wPNKlsqVQQssgM" /></a>
   <a href="https://suap.ifsp.edu.br/edu/registroemissaodiploma_public/?aluno=karina+gante&campus=9&modalidade=100" target="_blank"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Instituto_Federal_Marca_2015.svg/1200px-Instituto_Federal_Marca_2015.svg.png" /></a>
    <br>
-  <h3>29x Discovered CVEs:</h3>
+  <h3>30x Discovered CVEs:</h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8539" target="_blank">CVE-2025-8539</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8540" target="_blank">CVE-2025-8540</a>,
@@ -73,7 +73,8 @@
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-10584" target="_blank">CVE-2025-10584</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-10844" target="_blank">CVE-2025-10844</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-10845" target="_blank">CVE-2025-10845</a>,
-  <a href="https://www.cve.org/CVERecord?id=CVE-2025-10846" target="_blank">CVE-2025-10846</a>
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-10846" target="_blank">CVE-2025-10846</a>,
+  <a href="https://www.cve.org/CVERecord?id=CVE-2025-10909" target="_blank">CVE-2025-10909</a>
   <br>
   <br>
   <img
