@@ -38,6 +38,7 @@
 
  <div align="center" style="display: inline_block"><br>
   <a href="https://www.credly.com/go/i2887yMK" target="_blank"><img width="60" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" /></a>
+  <a href="https://www.credly.com/badges/27d98abd-4f12-48f6-9f1a-14ae88c16ac8/public_url" target="_blank"><img width="55" src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" /></a>
   <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=f849880ae2cc7c60231d0053c48b81af54f620ba" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1uIN0WSNB1ep38dqum_-RmCNBcpu-rsoL" /></a>
   <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=b68eb17b513b48cba46206effeaec8c453c5cfb0" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1ctbxFHJIe5aqzow6Z0I1oZ3s8dNqepPb" /></a>
   <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=e93116ad621fcf9ee3b16faa07bb2535d9a49135" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1r7xTWf3OTdZjleTHDU-rvcLkL6NQtsYQ" /></a>
