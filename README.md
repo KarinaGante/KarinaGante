@@ -37,14 +37,32 @@
 <div align="center">
 
  <div align="center" style="display: inline_block"><br>
-  <a href="https://www.credly.com/go/i2887yMK" target="_blank"><img width="60" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" /></a>
-  <a href="https://www.credly.com/badges/27d98abd-4f12-48f6-9f1a-14ae88c16ac8/public_url" target="_blank"><img width="55" src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" /></a>
-  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=f849880ae2cc7c60231d0053c48b81af54f620ba" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1uIN0WSNB1ep38dqum_-RmCNBcpu-rsoL" /></a>
-  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=b68eb17b513b48cba46206effeaec8c453c5cfb0" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1ctbxFHJIe5aqzow6Z0I1oZ3s8dNqepPb" /></a>
-  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=e93116ad621fcf9ee3b16faa07bb2535d9a49135" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1r7xTWf3OTdZjleTHDU-rvcLkL6NQtsYQ" /></a>
-  <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=67cb8e40a39883ee3a8000338f57d616e829d310" target="_blank"><img width="60" src="https://drive.google.com/uc?export=view&id=1zhW54LUxmjA9jkEgY-wPNKlsqVQQssgM" /></a>
-  <a href="https://suap.ifsp.edu.br/edu/registroemissaodiploma_public/?aluno=karina+gante&campus=9&modalidade=100" target="_blank"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Instituto_Federal_Marca_2015.svg/1200px-Instituto_Federal_Marca_2015.svg.png" /></a>
-   <br>
+  <table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/go/i2887yMK" target="_blank"><img width="75" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/badges/27d98abd-4f12-48f6-9f1a-14ae88c16ac8/public_url" target="_blank"><img width="60" src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=f849880ae2cc7c60231d0053c48b81af54f620ba" target="_blank"><img width="65" src="https://drive.google.com/uc?export=view&id=1uIN0WSNB1ep38dqum_-RmCNBcpu-rsoL" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=b68eb17b513b48cba46206effeaec8c453c5cfb0" target="_blank"><img width="65" src="https://drive.google.com/uc?export=view&id=1ctbxFHJIe5aqzow6Z0I1oZ3s8dNqepPb" /></a>
+    </td>
+    <td align="center" valign="middle">
+     <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=e93116ad621fcf9ee3b16faa07bb2535d9a49135" target="_blank"><img width="65" src="https://drive.google.com/uc?export=view&id=1r7xTWf3OTdZjleTHDU-rvcLkL6NQtsYQ" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=67cb8e40a39883ee3a8000338f57d616e829d310" target="_blank"><img width="65" src="https://drive.google.com/uc?export=view&id=1zhW54LUxmjA9jkEgY-wPNKlsqVQQssgM" /></a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://suap.ifsp.edu.br/edu/registroemissaodiploma_public/?aluno=karina+gante&campus=9&modalidade=100" target="_blank"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Instituto_Federal_Marca_2015.svg/1200px-Instituto_Federal_Marca_2015.svg.png" /></a>
+    </td>
+  </tr>
+</table>
+   
   <h3>30x Discovered CVEs:</h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8539" target="_blank">CVE-2025-8539</a>,
@@ -90,11 +108,6 @@
     <td align="center">1x CVE</td>
   </tr>
 </table>
-  <img
-    align="center"
-    alt="TryHackMe Stats"
-    src="https://tryhackme-badges.s3.amazonaws.com/karinagante.png"
-  />
   
 </div><br> 
    <img
@@ -161,10 +174,10 @@
   ##
   
   <img
-    height=15
     align="center"
     alt="Spotify"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Spotify_2024_logo.svg/2560px-Spotify_2024_logo.svg.png"
+    width="90"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/1280px-Spotify_logo_with_text.svg.png"
   /><br>
   <img
     align="center"
