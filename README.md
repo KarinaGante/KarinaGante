@@ -3,11 +3,12 @@
 <div align="center">
   <samp>
     <b>
-      サイバーセキュリティ
+      <code>サイバーセキュリティ</code>
     </b>
       <br>
-      Hey! I'm Karina ^^
-      <br>
+      <i> Hey! I'm Karina ^^ </i>
+      <br> <br>
+    ⊹₊˚‧︵‿₊୨ I'm Offensive Security Researcher & Creator Content݁ ୧₊‿︵‧˚₊⊹
   </samp>
 </div>
 
@@ -110,38 +111,10 @@
 </table>
   
 </div><br> 
-   <img
-    height=165
-    align="center"
-    alt="GitHub Streak"
-    src="https://nirzak-streak-stats.vercel.app/?user=karinagante&theme=jolly&hide_border=true"
-   />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karinagante&theme=jolly&hide_border=true"
-  />
-  <br>
-  <br>
   <img
     align="center"
     alt="Graph"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karinagante&theme=jolly"
-  />
-  <br>
-  <br>
-  <img
-    height=185
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=karinagante&show_icons=true&count_private=true&rank_icon=github&hide_border=true&include_all=true&theme=jolly"
-   />
-  <img
-    height=185
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinagante&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=jolly"
   />
   <br>
   <br>
@@ -172,30 +145,12 @@
   _“Security is not a product, but a process.” – Bruce Schneier_
 
   ##
-  
-  <img
-    align="center"
-    alt="Spotify"
-    width="90"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/1280px-Spotify_logo_with_text.svg.png"
-  /><br>
-  <img
-    align="center"
-    alt="Spotify"
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=karinovisk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
-  />
-
-  ##
 
   *Made with💜 by Karina.* 
 
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/karina-gante/)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://www.github.com/KarinaGante/)
-[![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:karina.gante1@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/karinovisk02/)
-
-##
+♡ <a href="https://www.linkedin.com/in/karina-gante/"><img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
+<a href="mailto:karina.gante1@gmail.com"><img width="50" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>
+<a href="https://www.instagram.com/karinovisk02/"><img width="50" alt="Instagram" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a> ♡
 
 *Official Member of [CVE-Hunters](https://www.cvehunters.com/)🏹*
    
