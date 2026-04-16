@@ -119,34 +119,33 @@
   <br>
   <br>
 
-<div align="center">
-  <img src="./icons/Burpsuite.png" width="45" />&nbsp;
-  <img src="./icons/Kali-Dark.png" width="45" />&nbsp;
-  <img src="./icons/Docker.png" width="45" />&nbsp;
-  <img src="./icons/SqlMap-Dark.png" width="45" />&nbsp;
-  <img src="./icons/Git.png" width="45" />&nbsp;
-  <img src="./icons/Github-Dark.png" width="45" />&nbsp;
-  <img src="./icons/Linux-Dark.png" width="45" />&nbsp;
-  <img src="./icons/Whireshark.png" width="45" />&nbsp;
-  <img src="./icons/Metasploit-Dark.png" width="45" />&nbsp;
-  <img src="./icons/Python-Dark.png" width="45" />&nbsp;
-  <img src="./icons/Caido-Dark.png" width="45" />&nbsp;
-  <img src="./icons/ghdb-Dark.png" width="45" />&nbsp;
-  <img src="./icons/AWS-Dark.png" width="45" />&nbsp;
-  <img src="./icons/gtfobins.png" width="45" />&nbsp;
-  <img src="./icons/Windows-Dark.png" width="45" />&nbsp;
-  <img src="./icons/Owasp-Dark.png" width="45" />
-</div>
-
   _“Security is not a product, but a process.” – Bruce Schneier_
+
+  <div align="center">
+  <a href="#!"><img src="./icons/Burpsuite.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Kali-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Docker.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/SqlMap-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Git.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Github-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Linux-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Whireshark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Python-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Caido-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/ghdb-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/AWS-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/gtfobins.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Windows-Dark.png" width="45" /></a>&nbsp;
+  <a href="#!"><img src="./icons/Owasp-Dark.png" width="45" /></a>
+</div>
 
   ##
 
   *Made with💜 by Karina.* 
 
-♡ <a href="https://www.linkedin.com/in/karina-gante/"><img width="50" alt="LinkedIn" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
-<a href="mailto:karina.gante1@gmail.com"><img width="50" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>
-<a href="https://www.instagram.com/karinovisk02/"><img width="50" alt="Instagram" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a> ♡
+♡ <a href="https://www.linkedin.com/in/karina-gante/"><img width="50" alt="LinkedIn" src="./icons/linkedin.png" /></a>
+<a href="mailto:karina.gante1@gmail.com"><img width="50" alt="Gmail" src="./icons/gmail.png" /></a>
+<a href="https://www.instagram.com/karinovisk02/"><img width="50" alt="Instagram" src="./icons/instagram.png" /></a> ♡
 
 *Official Member of [CVE-Hunters](https://www.cvehunters.com/)🏹*
    
