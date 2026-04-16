@@ -119,11 +119,24 @@
   <br>
   <br>
 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kali,docker,github,python,md" />
-  </a>
-</p>
+<div align="center">
+  <img src="./icons/Burpsuite.png" width="45" />&nbsp;
+  <img src="./icons/Kali-Dark.png" width="45" />&nbsp;
+  <img src="./icons/Docker.png" width="45" />&nbsp;
+  <img src="./icons/SqlMap-Dark.png" width="45" />&nbsp;
+  <img src="./icons/Git.png" width="45" />&nbsp;
+  <img src="./icons/Github-Dark.png" width="45" />&nbsp;
+  <img src="./icons/Linux-Dark.png" width="45" />&nbsp;
+  <img src="./icons/Whireshark.png" width="45" />&nbsp;
+  <img src="./icons/Metasploit-Dark.png" width="45" />&nbsp;
+  <img src="./icons/Python-Dark.png" width="45" />&nbsp;
+  <img src="./icons/Caido-Dark.png" width="45" />&nbsp;
+  <img src="./icons/ghdb-Dark.png" width="45" />&nbsp;
+  <img src="./icons/AWS-Dark.png" width="45" />&nbsp;
+  <img src="./icons/gtfobins.png" width="45" />&nbsp;
+  <img src="./icons/Windows-Dark.png" width="45" />&nbsp;
+  <img src="./icons/Owasp-Dark.png" width="45" />
+</div>
 
   _“Security is not a product, but a process.” – Bruce Schneier_
 
