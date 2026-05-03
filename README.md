@@ -97,18 +97,6 @@
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-10909" target="_blank">CVE-2025-10909</a>
   <br>
   <br>
-   <table>
-  <tr>
-    <td><a href="https://github.com/portabilis/i-educar" target="_blank"><img width="130" src="https://ieducar.org/img/logo_horizontal.svg"/></a></td>
-    <td><a href="https://github.com/SCADA-LTS/Scada-LTS" target="_blank"><img width="150" src="https://abilit.eu/wp-content/uploads/2026/04/Scada-LTS.png"/></a></td>
-    <td><a href="https://github.com/novosga/novosga" target="_blank"><img width="150" src="https://cdn.rawgit.com/novosga/art/d50d3d42/dist/logo_270x107.png"/></a></td>
-  </tr>
-  <tr>
-    <td align="center">24x CVEs</td>
-    <td align="center">5x CVEs</td>
-    <td align="center">1x CVE</td>
-  </tr>
-</table>
   
 </div><br> 
   <img
