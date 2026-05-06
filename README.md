@@ -3,11 +3,11 @@
 <div align="center">
   <samp>
     <b>
-      <code>サイバーセキュリティ</code>
+      <b>サイバーセキュリティ</b>
     </b>
       <br>
-      <i> Hey! I'm Karina ^^ </i>
-      <br> <br>
+      <h3><code><i>> Hey! I'm Karina ^^</i></code></h3>
+      <br>
     ⊹₊˚‧︵‿₊୨ I'm Offensive Security Researcher & Creator Content݁ ୧₊‿︵‧˚₊⊹
   </samp>
 </div>
@@ -64,7 +64,7 @@
   </tr>
 </table>
    
-  <h3>30x Discovered CVEs:</h3>
+  <h3><code>> 30x Discovered CVEs:</code></h3>
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8538" target="_blank">CVE-2025-8538</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8539" target="_blank">CVE-2025-8539</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-8540" target="_blank">CVE-2025-8540</a>,
@@ -129,7 +129,7 @@
 
   ##
 
-  *Made with💜 by Karina.* 
+  *Made with💜 by Karina.*
 
 ♡ <a href="https://www.linkedin.com/in/karina-gante/"><img width="50" alt="LinkedIn" src="./icons/linkedin.png" /></a>
 <a href="mailto:karina.gante1@gmail.com"><img width="50" alt="Gmail" src="./icons/gmail.png" /></a>
