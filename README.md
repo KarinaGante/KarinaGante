@@ -102,7 +102,7 @@
   <img
     align="center"
     alt="Graph"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karinagante&theme=jolly"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarinaGante&theme=jolly"
   />
   <br>
   <br>
