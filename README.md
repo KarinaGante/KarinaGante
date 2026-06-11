@@ -29,7 +29,7 @@
 
   <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-a960ff?style=for-the-badge&logo=todoist&logoColor=white)](https://karinagante.github.io/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a960ff?style=for-the-badge&logo=todoist&logoColor=white)](https://karinagante.github.io/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fkarinagante.github.io&label=VISITORS&labelColor=%23291b3e&countColor=%23ff64da)
 </div>
 
