@@ -29,8 +29,8 @@
 
   <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-a960ff?style=for-the-badge&logo=todoist&logoColor=white)](https://karinagante.github.io/)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fkarinagante.github.io&label=VISITORS&labelColor=%23291b3e&countColor=%23ff64da)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a960ff?style=for-the-badge&logo=todoist&logoColor=white)](https://karinagante.github.io)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fkarinagante.github.io%2Findex.html&label=VISITORS&labelColor=%23291b3e&countColor=%23ff64da)
 </div>
 
 ##
@@ -97,15 +97,6 @@
   <a href="https://www.cve.org/CVERecord?id=CVE-2025-10909" target="_blank">CVE-2025-10909</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-11434" target="_blank">CVE-2026-11434</a>,
   <a href="https://www.cve.org/CVERecord?id=CVE-2026-12202" target="_blank">CVE-2026-12202</a>
-  <br>
-  <br>
-  
-</div><br> 
-  <img
-    align="center"
-    alt="Graph"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarinaGante&theme=jolly"
-  />
   <br>
   <br>
 
