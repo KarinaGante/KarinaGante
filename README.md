@@ -40,11 +40,12 @@
  <div align="center" style="display: inline_block"><br>
   <table align="center">
   <tr>
+     </td>
     <td align="center" valign="middle">
-      <a href="https://www.credly.com/go/i2887yMK" target="_blank"><img width="75" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" /></a>
+      <a href="https://suap.ifsp.edu.br/edu/registroemissaodiploma_public/?aluno=karina+gante&campus=9&modalidade=100" target="_blank"><img width="80" src="https://cdn.brandfetch.io/idcUggTZxV/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1777645405000" /></a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://www.credly.com/badges/27d98abd-4f12-48f6-9f1a-14ae88c16ac8/public_url" target="_blank"><img width="60" src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" /></a>
+      <a href="https://www.credly.com/go/i2887yMK" target="_blank"><img width="75" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" /></a>
     </td>
     <td align="center" valign="middle">
       <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=f849880ae2cc7c60231d0053c48b81af54f620ba" target="_blank"><img width="65" src="https://drive.google.com/uc?export=view&id=1uIN0WSNB1ep38dqum_-RmCNBcpu-rsoL" /></a>
@@ -59,7 +60,7 @@
       <a href="https://ava.hackersdobem.org.br/badges/badge.php?hash=67cb8e40a39883ee3a8000338f57d616e829d310" target="_blank"><img width="65" src="https://drive.google.com/uc?export=view&id=1zhW54LUxmjA9jkEgY-wPNKlsqVQQssgM" /></a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://suap.ifsp.edu.br/edu/registroemissaodiploma_public/?aluno=karina+gante&campus=9&modalidade=100" target="_blank"><img width="80" src="https://cdn.brandfetch.io/idcUggTZxV/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1777645405000" /></a>
+      <a href="https://www.credly.com/badges/27d98abd-4f12-48f6-9f1a-14ae88c16ac8/public_url" target="_blank"><img width="60" src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" /></a>
     </td>
   </tr>
 </table>
