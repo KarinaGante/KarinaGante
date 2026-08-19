@@ -101,7 +101,9 @@
   <br>
   <br>
 
-  _“Security is not a product, but a process.” – Bruce Schneier_
+***“Seus sonhos são o motivo de você levantar todos os dias e dar o seu melhor” – Edu Rossi***
+
+<br>
 
   <div align="center">
   <a href="#!"><img src="./icons/Burpsuite.png" width="45" /></a>&nbsp;
