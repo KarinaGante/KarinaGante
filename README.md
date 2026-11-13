@@ -101,7 +101,7 @@
   <br>
   <br>
 
-***“Seus sonhos são o motivo de você levantar todos os dias e dar o seu melhor” – Edu Rossi***
+***“Your dreams are the reason you get up every day and give it your best.”***
 
 <br>
 
